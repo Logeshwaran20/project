@@ -1,1 +1,1 @@
-# project
+This project is developed as part of the Naan Mudhalvan Skill Development Program, aimed at solving real-world problems through technology. The application helps connect daily wage workers with potential employers, enabling easy job discovery and hiring. It focuses on bridging the gap between laborers and job providers in both rural and urban areas.
